@@ -1,0 +1,6 @@
+Bożek    Damian  1990   M
+Kowalski Marek   1950   M
+Krzak Marianna   1958   K
+Lipniak Dominika   1980   K
+Dębowski Jacek  1940   M
+Jakubas Maria 1950 K
